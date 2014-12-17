@@ -1,4 +1,4 @@
-pxxl('../../fonts/c64d.bdf', 'hello world', function (pixels) {
+pxxl('../../fonts/small.bdf', 'hello world', function (pixels) {
   var canvas = document.createElement("canvas");
   canvas.width=900;
   canvas.height=80;
