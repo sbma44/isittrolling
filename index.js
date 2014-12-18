@@ -13,6 +13,8 @@ var ghost_duration = 0;
 var end = false;
 var px = null;
 
+var xoffset = Math.floor(Math.random() * 800);
+var yoffset = Math.floor(Math.random() * 600);
 
 pxxl('./pxxl/fonts/tom-thumb.bdf', process.argv[2], function(text, pixels, font) {
     px = pixels;
@@ -36,7 +38,7 @@ pxxl('./pxxl/fonts/tom-thumb.bdf', process.argv[2], function(text, pixels, font)
         minions.forEach(function(m) { 
             m.close(); 
         }); 
-    }, 10000);
+    }, 3000);
 });
 
 function onMessage(e) {
@@ -51,7 +53,6 @@ function onMessage(e) {
     }
 };
 
-// @TODO: send minion frames in batches, leave ghosts
 function sendFrame(ticks) {    
     var ms = (ticks * mouse_rate) % 1000;
 
@@ -64,8 +65,8 @@ function sendFrame(ticks) {
 
                 var pxindex = (ticks + m.minionNumber) % px.length;
                 var msg = {
-                    x: 300 + px[pxindex].x * FLAG_WIDTH,
-                    y: 300 + px[pxindex].y * FLAG_HEIGHT,
+                    x: xoffset + px[pxindex].x * FLAG_WIDTH,
+                    y: yoffset + px[pxindex].y * FLAG_HEIGHT,
                     id: m.user_id,
                     c: "HK",
                     _event: "motion"
