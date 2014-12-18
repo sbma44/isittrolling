@@ -17,5 +17,6 @@
   },
   "homepage": "https://github.com/sbma44/isittrolling",
   "dependencies": {
+    "sockjs-client-node": "^0.1.1"
   }
 }
