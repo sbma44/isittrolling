@@ -1,0 +1,26 @@
+[
+    {
+        "_event": "scroll", 
+        "angle": -315, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 228, 
+        "x": 293, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": -405, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 228, 
+        "x": 292, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }
+]

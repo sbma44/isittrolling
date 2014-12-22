@@ -1,0 +1,62 @@
+[
+    {
+        "_event": "scroll", 
+        "angle": 90, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 252, 
+        "x": 320, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 90, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 250, 
+        "x": 366, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 0, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 230, 
+        "x": 340, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 0, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 280, 
+        "x": 343, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 40, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 275, 
+        "x": 360, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }
+]

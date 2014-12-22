@@ -1,0 +1,86 @@
+[
+    {
+        "_event": "scroll", 
+        "angle": 360, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 368, 
+        "x": 392, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 360, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 327, 
+        "x": 389, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 490, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 345, 
+        "x": 360, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 455, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 371, 
+        "x": 353, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 400, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 399, 
+        "x": 366, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 490, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 400, 
+        "x": 408, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 535, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 410, 
+        "x": 393, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }
+]

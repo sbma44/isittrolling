@@ -1,0 +1,50 @@
+[
+    {
+        "_event": "scroll", 
+        "angle": 270, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 176, 
+        "x": 955, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 270, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 209, 
+        "x": 955, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 360, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 161, 
+        "x": 974, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "_event": "scroll", 
+        "angle": 360, 
+        "id": "xF9dY40-Mxq1bq-c"
+    }, 
+    {
+        "y": 193, 
+        "x": 972, 
+        "button": "right", 
+        "_event": "click", 
+        "id": "xF9dY40-Mxq1bq-c"
+    }
+]
