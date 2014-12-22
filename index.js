@@ -1,10 +1,13 @@
 var SockJS = require('sockjs-client-node');
 var fs = require('fs');
 
+// CONFIGURE THIS
 var NUM_MINIONS = 10;
+var DURATION = 3000;
+
+// DON'T CONFIGURE THIS
 var FLAG_HEIGHT = 22, FLAG_WIDTH = 40;
 var minions = [];
-
 var out = fs.createWriteStream('./log.txt');
 var mouse_rate = 50;
 var ghost_max = 10;
@@ -179,5 +182,5 @@ MakeLetterCommands(process.argv[2], function(inst) {
         minions.forEach(function(m) { 
             m.close(); 
         }); 
-    }, 10000);
+    }, DURATION);
 });
