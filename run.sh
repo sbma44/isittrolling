@@ -61,25 +61,26 @@ node index.js "driver so lively" `cat num_minions.txt`
 node index.js "and quick i" `cat num_minions.txt`
 node index.js "knew in a moment" `cat num_minions.txt`
 node index.js "he must be" `cat num_minions.txt`
-node index.js "st nick more" `cat num_minions.txt`
-node index.js "rapid than" `cat num_minions.txt`
+node index.js "st nick" `cat num_minions.txt`
+node index.js "more rapid than" `cat num_minions.txt`
 node index.js "eagles his" `cat num_minions.txt`
 node index.js "coursers they" `cat num_minions.txt`
 node index.js "came and he" `cat num_minions.txt`
 node index.js "whistled and" `cat num_minions.txt`
 node index.js "shouted and" `cat num_minions.txt`
 node index.js "called them" `cat num_minions.txt`
-node index.js "by name now" `cat num_minions.txt`
-node index.js "dasher now" `cat num_minions.txt`
-node index.js "dancer now" `cat num_minions.txt`
-node index.js "prancer and" `cat num_minions.txt`
-node index.js "vixen on comet" `cat num_minions.txt`
-node index.js "on cupid on" `cat num_minions.txt`
-node index.js "donner and" `cat num_minions.txt`
-node index.js "blitzen to" `cat num_minions.txt`
-node index.js "the top of" `cat num_minions.txt`
-node index.js "the porch to" `cat num_minions.txt`
-node index.js "the top of" `cat num_minions.txt`
+node index.js "by name" `cat num_minions.txt`
+node index.js "now dasher" `cat num_minions.txt`
+node index.js "now dancer" `cat num_minions.txt`
+node index.js "now prancer" `cat num_minions.txt`
+node index.js "and vixen" `cat num_minions.txt` 
+node index.js "on comet" `cat num_minions.txt`
+node index.js "on cupid" `cat num_minions.txt`
+node index.js "on donner" `cat num_minions.txt`
+node index.js "and blitzen" `cat num_minions.txt`
+node index.js "to the top of" `cat num_minions.txt`
+node index.js "the porch" `cat num_minions.txt`
+node index.js "to the top of" `cat num_minions.txt`
 node index.js "the wall now" `cat num_minions.txt`
 node index.js "dash away dash" `cat num_minions.txt`
 node index.js "away dash away" `cat num_minions.txt`
