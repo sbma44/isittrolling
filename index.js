@@ -2,8 +2,8 @@ var SockJS = require('sockjs-client-node');
 var fs = require('fs');
 
 // CONFIGURE THIS
-var NUM_MINIONS = 10;
-var DURATION = 3000;
+var NUM_MINIONS = process.argv[3];
+var DURATION = 6000;
 
 // DON'T CONFIGURE THIS
 var FLAG_HEIGHT = 22, FLAG_WIDTH = 40;
